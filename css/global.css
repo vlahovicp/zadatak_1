@@ -1,0 +1,10 @@
+.container {
+padding-right: 15px;
+padding-left: 15px;
+}
+.element {
+padding: 13px;
+}
+.element label {
+font: 12px Consolas; margin-bottom: 3px; display: block;
+}
